@@ -1,4 +1,4 @@
-# Wam Teleop
+# Sensorless Transparent Wam Teleop
 
 This repository contains the implementation accompanying the IROS 2026 paper:
 
