@@ -82,3 +82,26 @@ To turn off, it is recommended to go through the following procedure to ensure p
 3) Shift idle the leader
 4) Repeat for follower. Press `x` to exit the loop
 5) Shift idle the follower.
+
+## 📄 Publication
+
+This repository accompanies the following publication:
+
+> **Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation**  
+> **Amir Noohian**, Dylan Miller, Justin Valentine, Alan Lynch, and Martin Jagersand  
+> *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.*
+
+This repository contains the implementation of the proposed bilateral teleoperation framework, including inverse dynamics compensation, sensorless force estimation, and experimental evaluation on Barrett WAM robots.
+
+## 📚 Citation
+
+If you use this repository in your research, please cite:
+
+```bibtex
+@inproceedings{noohian2026sensorless,
+  title     = {Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation},
+  author    = {Noohian, Amir and Miller, Dylan and Valentine, Justin and Lynch, Alan and Jagersand, Martin},
+  booktitle = {Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year      = {2026}
+}
+```
